@@ -1,6 +1,9 @@
 #!/bin/bash
 
-#How far into the screen should it look
+# Script to generate configuration for Boblight ambient lighting setup.
+# TODO: Document this more
+
+# How far into the screen should it look
 depth=13
 
 devicename=ambilight
